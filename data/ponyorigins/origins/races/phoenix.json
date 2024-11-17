@@ -1,0 +1,23 @@
+{
+  "name": "Phoenix",
+  "description": "A bird that can regenrate and Breathes green, radioactive fire\n",
+  "powers": [
+    "ponyorigins:common/diets/herbivore",
+    "ponyorigins:common/diets/direct_eat",
+    "ponyorigins:common/quadruped",
+    "ponyorigins:common/talons",
+    "ponyorigins:common/rideable",
+    "ponyorigins:dragon/heat",
+    "ponyorigins:dragon/flamethrower",
+    "ponyorigins:common/flight/main",
+    "ponyorigins:common/flight/hazards",
+    "ponyorigins:common/wings/feathered",
+    "ponyorigins:common/health/armor_phoenix",
+    "ponyorigins:common/sounds/phoenix"
+  ],
+  "icon": {
+    "item": "blaze_powder"
+  },
+  "order": 14,
+  "impact": 0
+}
